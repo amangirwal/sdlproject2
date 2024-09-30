@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+Pillow
+easyocr
+pdf2image
+numpy
+pandas
+openpyxl
